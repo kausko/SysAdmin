@@ -36,7 +36,7 @@ starlette==0.13.6
 toml==0.10.2
 typing-extensions==3.7.4.3
 uritemplate==3.0.1
-urllib3==1.26.2
+urllib3==1.26.5
 uvicorn==0.13.3
 WMI==1.5.1
 yarl==1.6.3
